@@ -6,6 +6,7 @@ Tools
 * [__ab__](http://en.wikipedia.org/wiki/ApacheBench) – slow and single threaded, written in `C`
 * [__apib__](https://github.com/apigee/apib) – most of the features of ApacheBench (`ab`), also designed as a [more modern replacement](https://github.com/apigee/apib#design), written in `C`
 * [__baloo__](https://github.com/h2non/baloo) – Expressive end-to-end HTTP API testing made easy, written in Go (`golang`)
+* [__BitDive__](https://bitdive.io) – Performance testing for Java/Kotlin that captures real traffic and replays at scale with method-level latency measurement, written in `Java`
 * [__bombardier__](https://github.com/codesenberg/bombardier) – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
 * [__curl-loader__](http://curl-loader.sourceforge.net/) – performance loading of various application services and traffic generation, written in `C`
 * [__fasthttploader__](https://github.com/hagen1778/fasthttploader) – benchmark (kinda ab) with autoadjustment and charts based on fasthttp library, write in Go (`golang`)
